@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/Abhishek-555/Why_You_Should_Hire_Me.git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Abhishek Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/Abhishek-555/Why_You_Should_Hire_Me.git"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/Abhishek-555/Why_You_Should_Hire_Me.git",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
